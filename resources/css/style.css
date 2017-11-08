@@ -157,16 +157,16 @@ footer {
     .product.glasses {
         display: none;
 }
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 340px) {
   .products, .business-info {
     flex-wrap: wrap;
 }
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 340px) {
   .product {
     width: 90%;
     margin: auto;
 }
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 340px) {
     .product.watch {
         display: none;
 }
